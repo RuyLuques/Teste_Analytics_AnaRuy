@@ -66,4 +66,4 @@ python src/analise_exploratoria.py
 - A consulta SQL referente a junho considera o mês de junho de 2023.
 - Foram inseridos valores faltantes e duplicatas propositalmente para atender aos requisitos de limpeza do teste.
 
-Documentações: https://drive.google.com/file/d/1Hc6-8o01TqFiApWJNjGd_HENv2S81bnQ/view?usp=sharing
+Documentação: https://drive.google.com/file/d/1Hc6-8o01TqFiApWJNjGd_HENv2S81bnQ/view?usp=sharing
