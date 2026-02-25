@@ -65,3 +65,5 @@ python src/analise_exploratoria.py
 - O dataset foi simulado para o período de 01/01/2023 a 31/12/2023.
 - A consulta SQL referente a junho considera o mês de junho de 2023.
 - Foram inseridos valores faltantes e duplicatas propositalmente para atender aos requisitos de limpeza do teste.
+
+Documentações: https://drive.google.com/file/d/1Hc6-8o01TqFiApWJNjGd_HENv2S81bnQ/view?usp=sharing
